@@ -1,16 +1,34 @@
-## Hi there 👋
+# Привет! Я demon64k 👨‍💻
 
-<!--
-**demon64k/demon64k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Обо мне
+Создаю полезные приложения и инструменты для повседневных задач. Увлекаюсь разработкой мессенджеров, утилит безопасности и веб-разработкой.
 
-Here are some ideas to get you started:
+## 🚀 Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Anonymous Chat
+Анонимный мессенджер для безопасного общения без регистрации и отслеживания.
+[Посмотреть проект](https://github.com/demon64k/Anonymous-chat)
+
+### 🔐 Password Gram
+Анонимный генератор паролей для создания надёжных и уникальных паролей.
+[Посмотреть проект](https://github.com/demon64k/Password-Gram)
+
+### 🎮 Игровые патчи
+Создаю неофициальные патчи и модификации для игр, улучшая игровой опыт.
+
+###  Веб-разработка
+Разрабатываю сайты и веб-приложения с современным дизайном и функциональностью.
+
+## 🛠️ Навыки
+- **Разработка приложений** - создание полезных утилит и инструментов
+- **Безопасность** - работа с шифрованием и анонимностью
+- **Веб-разработка** - создание сайтов и веб-приложений
+- **Модификация игр** - создание патчей и улучшений
+
+## 📫 Связь со мной
+- GitHub: [@demon64k](https://github.com/demon64k)
+- Google Mail [@demon64k](stepanpersonally@gmail.com)
+- Telegram Suggestion [@demon64k](t.me/Demon64k_official_bot)
+
+---
+💡 *Открыт для сотрудничества и интересных проектов!(наверное)*
