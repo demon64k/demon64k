@@ -29,6 +29,10 @@
 
 ![Snake Animation](https://raw.githubusercontent.com/demon64k/demon64k/snake-animation/github-contribution-grid-snake.gif)
 
+![Snake Animation Dark](https://raw.githubusercontent.com/demon64k/demon64k/snake-animation/github-contribution-grid-snake-dark.svg)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=demon64k&theme=github-dark)
+
 ## 📫 Связь со мной
 - GitHub: [@demon64k](https://github.com/demon64k)
 - Google Mail (stepanpersonally@gmail.com)
