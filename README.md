@@ -33,6 +33,8 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=demon64k&theme=github-dark)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=demon64k&theme=dark)
+
 ## 📫 Связь со мной
 - GitHub: [@demon64k](https://github.com/demon64k)
 - Google Mail (stepanpersonally@gmail.com)
