@@ -25,6 +25,10 @@
 - **Веб-разработка** - создание сайтов и веб-приложений
 - **Модификация игр** - создание патчей и улучшений
 
+## 🐍 Моя активность
+
+![Snake Animation](https://raw.githubusercontent.com/demon64k/demon64k/snake-animation/github-contribution-grid-snake.gif)
+
 ## 📫 Связь со мной
 - GitHub: [@demon64k](https://github.com/demon64k)
 - Google Mail (stepanpersonally@gmail.com)
