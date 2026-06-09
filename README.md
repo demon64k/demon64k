@@ -27,8 +27,8 @@
 
 ## 📫 Связь со мной
 - GitHub: [@demon64k](https://github.com/demon64k)
-- Google Mail [@demon64k](stepanpersonally@gmail.com)
-- Telegram Suggestion [@demon64k](t.me/Demon64k_official_bot)
+- Google Mail (stepanpersonally@gmail.com)
+- Telegram Suggestion (t.me/Demon64k_official_bot)
 
 ---
 💡 *Открыт для сотрудничества и интересных проектов!(наверное)*
