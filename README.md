@@ -69,5 +69,5 @@
 ### 📫 Как со мной связаться
 
 - 💬 **Telegram**: [@Dimoska_studio](https://t.me/Dimoska_studio)
-- 📧 **Email**: [твой_email@example.com](mailto:твой_email@example.com) *(замени на свой)*
+- 📧 **Email**: [stepanpersonally@gmail.com]
 - 🌐 **GitHub**: [github.com/demon64k](https://github.com/demon64k)
